@@ -1,0 +1,9 @@
+Package: com.esper.llsif
+Name: Esper Idol Festival
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Esper's School Idol Festival Hacks
+Maintainer: esper
+Author: esper
+Section: Tweaks

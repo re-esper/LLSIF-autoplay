@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.meiyu.lovelive",
+			"jp.klab.lovelive",
+		);
+	};
+}
