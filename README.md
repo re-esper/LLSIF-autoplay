@@ -11,7 +11,7 @@ My personal "Love Live! School Idol Festival" auto play hacks
     1. 图中"文本速度 - 快速"对应以Fullcombo自动打歌, perfect率预设95%
     2. "文本速度 - 普通"对应以非Fullcombo自动打歌, good率预设0.5%
     3. "文本速度 - 慢速"对应关闭插件功能
-<img src="./pics/setting.png" hspace="20">
+<img src="./pics/setting.jpg" hspace="20">
 
 ## 使用
 
